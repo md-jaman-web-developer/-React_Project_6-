@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/tailwindlabs/prettier-plugin-tailwindcss/main/.github/banner.jpg" alt="prettier-plugin-tailwindcss" />
+|| Firebase and tailwind, React Project||
+
+<img src="https://github.com/md-jaman-web-developer/-React_Project_6-/blob/main/%7C%7CAll%20Photos%20%7C%5C/Screenshot%20from%202023-12-21%2014-51-36.png" />
+||Search option ||
+<img src="https://github.com/md-jaman-web-developer/-React_Project_6-/blob/main/%7C%7CAll%20Photos%20%7C%5C/Screenshot%20from%202023-12-21%2014-52-16.png" />
+||Add , Deleted,Update option ||
+<img src="https://github.com/md-jaman-web-developer/-React_Project_6-/blob/main/%7C%7CAll%20Photos%20%7C%5C/Screenshot%20from%202023-12-21%2014-52-32.png" />
 
 
 
